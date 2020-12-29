@@ -1,5 +1,4 @@
-# week3_hw
-Week 3 Homework Assignment
+# Simple Password Generator
 
 ## Description
 ### JavaScript: Password Generator
